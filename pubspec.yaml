@@ -8,7 +8,7 @@ environment:
   flutter: ">=1.12.13"
 
 dependencies:
-  collection: ^1.15.0
+  collection: 1.14.11
   flutter:
     sdk: flutter
   nested: ^1.0.0
